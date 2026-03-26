@@ -12,7 +12,7 @@ A command injection vulnerability exists in the `msp_info_htm` CGI handler of th
 
 #### 2. Affected Product
 
-- **Vendor:** D-Link (or OEM)
+- **Vendor:** D-Link 
 - **Device:** DI-8300
 - **Firmware Version:** 16.07.26A1
 - **Component:** `msp_info_htm` CGI module
@@ -114,6 +114,7 @@ The contents of `/etc/passwd` are disclosed.
 ---
 
 **4.5 Whole poc
+
 ```
 TARGET="192.168.0.1"
 COOKIE_FILE="/tmp/di8300_vuln001_cookies.txt"
