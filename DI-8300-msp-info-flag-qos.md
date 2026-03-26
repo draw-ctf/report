@@ -113,7 +113,7 @@ The contents of `/etc/passwd` are disclosed.
 
 ---
 
-**4.5 Whole poc
+**4.5 Whole poc**
 
 ```
 TARGET="192.168.0.1"
