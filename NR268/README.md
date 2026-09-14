@@ -5,7 +5,7 @@ Each advisory follows a standard disclosure format: Summary, Technical Details, 
 
 Lab requests in the proofs of concept use `http://192.168.1.1` and HTTP Basic authentication `admin:admin`. Replace those values with the target device address and valid management credentials.
 
-Contributors: Zhou Ao, Yin Luxing, Jiang Yuxuan, Liu Xin, @Nebusec  
+Contributors: Zhou Ao, Zhang Yu, Yang Yang, Liu Xin @Nebusec  
 Contact: vuln@nebusec.ai
 
 ## Advisories
