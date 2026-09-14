@@ -1,10 +1,12 @@
-# Netcore NR268 Public References
+# Netcore NR268 Vulnerability Reports
 
-Minimal public identification records for Netcore NR268 firmware NR268-V1.7.121109.bin.
-Each file includes a short verification section for VulDB/CNA review on a lab device.
-Requests use placeholders DEVICE, USER, and PASS. They are not a full exploit chain.
+Public vulnerability reports for Netcore NR268 firmware `NR268-V1.7.121109.bin`.
+Each advisory follows a standard disclosure format: Summary, Technical Details, Affected Endpoint, Proof of Concept, Outcome, and Impact.
 
-Contributors: Zhou Ao, Yin Luxing, Jiang Yuxuan, Liu Xin, @Nebusec
+Lab requests in the proofs of concept use `http://192.168.1.1` and HTTP Basic authentication `admin:admin`. Replace those values with the target device address and valid management credentials.
+
+Contributors: Zhou Ao, Yin Luxing, Jiang Yuxuan, Liu Xin, @Nebusec  
+Contact: vuln@nebusec.ai
 
 ## Advisories
 
