@@ -1,7 +1,8 @@
 # Netcore NR268 Public References
 
 Minimal public identification records for Netcore NR268 firmware NR268-V1.7.121109.bin.
-These files omit proof-of-concept material and reproduction steps.
+Each file includes a short verification section for VulDB/CNA review on a lab device.
+Requests use placeholders DEVICE, USER, and PASS. They are not a full exploit chain.
 
 Contributors: Zhou Ao, Yin Luxing, Jiang Yuxuan, Liu Xin, @Nebusec
 
